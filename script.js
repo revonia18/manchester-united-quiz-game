@@ -63,3 +63,9 @@ const quizQuestions = [
         ],
     },
 ];
+
+//QUIZ STATE VARS
+let currentQuestionIndex = 0;
+let score = 0
+let answersDisabled = false
+
